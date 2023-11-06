@@ -7,7 +7,7 @@
 ### Usage
 
 ```javascript
-import useState from "react";
+import { useState } from "react";
 import Dropdown from "mik-dropdown/dist/Dropdown";
 
 function Example() {
