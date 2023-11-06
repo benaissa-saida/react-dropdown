@@ -1,6 +1,6 @@
 {
   "name": "mik-dropdown",
-  "version": "0.2",
+  "version": "0.2.0",
   "main": "dist/index.jsx",
   "module": "dist/index.jsx",
   "files": [
